@@ -8,8 +8,10 @@
         <entry key="app/src/main/res/drawable/circular_color_accent_background.xml" value="0.2615" />
         <entry key="app/src/main/res/drawable/circular_progressbar.xml" value="0.2615" />
         <entry key="app/src/main/res/drawable/circular_progressbar_gray.xml" value="0.2615" />
+        <entry key="app/src/main/res/drawable/item_circular_color_gray_background.xml" value="0.2275" />
         <entry key="app/src/main/res/layout/activity_exercise.xml" value="0.32760416666666664" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.31354166666666666" />
+        <entry key="app/src/main/res/layout/item_exercise_status.xml" value="0.32760416666666664" />
       </map>
     </option>
   </component>
